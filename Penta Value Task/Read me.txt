@@ -1,0 +1,1 @@
+It's recomended that you run the game in Windowed mode with a resolution of 1024x768
